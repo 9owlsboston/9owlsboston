@@ -4,13 +4,14 @@
 I'm a Cloud and AI Solution Architect at one of the leading global cloud providers. I’m passionate about transforming visionary ideas into scalable, intelligent solutions—leveraging the full power of Azure Cloud and cutting-edge AI technologies.
 
 <p align="left">
-  <!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=9owlsboston&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" /> -->
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9owlsboston&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=9owlsboston&theme=radical&hide_title=true&count_private=true" />      
+  <!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=9owlsboston&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" /> -->
 </p>
 
-<!-- <p align=center>
-  <img src="https://komarev.com/ghpvc/?username=9owlsboston" />
-</p> -->
+<p align=left>
+  <img src="https://komarev.com/ghpvc/?username=9owlsboston&color=orange" />
+</p>
 
 ## 🤖 Cloud & AI Expertise
 
@@ -32,7 +33,7 @@ As a technical leader with diverse industry experience, I help organizations lev
 - Large-scale data processing systems
 - Mission-critical application modernization
 
-## 🎯  Current Focus
+## 🎯  Current Focus
 
 - Enabling Azure cloud adoption and AI transformation
 - Implementing scalable AI solutions for enterprise needs
