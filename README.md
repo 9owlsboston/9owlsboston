@@ -23,7 +23,7 @@ With extensive experience across telecom, banking, quantitative finance, startup
 - **Healthcare IT** - Digitalizing clinical workflows and genomic research platforms
 - **Financial Systems** - Developing trading and data processing solutions
 
-## 🛠️ What I Do
+## 🛠️ What I Do
 
 As a technical leader with diverse industry experience, I help organizations leverage cloud and AI technologies to drive innovation and digital transformation:
 
@@ -78,7 +78,7 @@ Throughout my career, I've led significant technical initiatives with measurable
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="75" />
 </div>
 
-## 🤝 Open for Collaboration
+## 🤝 Open for Collaboration
 
 I'm particularly interested in collaborating on projects related to:
 - Enterprise cloud transformation
