@@ -13,7 +13,7 @@ I'm a Cloud and AI Solution Architect at one of the leading global cloud provide
   <img src="https://komarev.com/ghpvc/?username=9owlsboston&color=orange" />
 </p>
 
-## 🤖 Cloud & AI Expertise
+## 🤖  Cloud & AI Expertise
 
 With extensive experience across telecom, banking, quantitative finance, startups, healthcare, and government sectors, I specialize in:
 
@@ -23,7 +23,7 @@ With extensive experience across telecom, banking, quantitative finance, startup
 - **Healthcare IT** - Digitalizing clinical workflows and genomic research platforms
 - **Financial Systems** - Developing trading and data processing solutions
 
-## 🛠️ What I Do
+## 🛠️  What I Do
 
 As a technical leader with diverse industry experience, I help organizations leverage cloud and AI technologies to drive innovation and digital transformation:
 
@@ -41,7 +41,7 @@ As a technical leader with diverse industry experience, I help organizations lev
 - Building high-performance cloud architectures
 - Driving digital transformation initiatives
 
-## 💥Transformational Impact
+## 💥  Transformational Impact
 
 Throughout my career, I've led significant technical initiatives with measurable business impact:
 
@@ -53,7 +53,7 @@ Throughout my career, I've led significant technical initiatives with measurable
 - Developed analytics database engine valued at $350M
 - Created internet banking solutions driving 150% customer growth
 
-## 📫 Let's Connect
+## 📫  Let's Connect
 
 - ❓ Ask me about Azure cloud architecture, AI solutions, or digital transformation
 - 📫 How to reach me: [gmail](mailto:9owlsboston@gmail.com)
@@ -78,7 +78,7 @@ Throughout my career, I've led significant technical initiatives with measurable
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="75" />
 </div>
 
-## 🤝 Open for Collaboration
+## 🤝  Open for Collaboration
 
 I'm particularly interested in collaborating on projects related to:
 - Enterprise cloud transformation
