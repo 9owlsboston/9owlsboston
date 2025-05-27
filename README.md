@@ -23,7 +23,7 @@ With extensive experience across telecom, banking, quantitative finance, startup
 - **Healthcare IT** - Digitalizing clinical workflows and genomic research platforms
 - **Financial Systems** - Developing trading and data processing solutions
 
-## 🌐 What I Do
+## 🌐 What I Do
 
 As a technical leader with diverse industry experience, I help organizations leverage cloud and AI technologies to drive innovation and digital transformation:
 
