@@ -5,7 +5,7 @@ I'm a Cloud and AI Solution Architect at one of the leading global cloud provide
 
 <p align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9owlsboston&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=9owlsboston&theme=radical&hide_title=true&count_private=true" />      
+  <!-- <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=9owlsboston&theme=radical&hide_title=true&count_private=true" />       -->
   <!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=9owlsboston&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" /> -->
 </p>
 
